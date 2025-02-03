@@ -52,7 +52,7 @@ public class PrimeNum {
 			System.out.println(array[c]);
 		}
 		
-		
+	scanner.close();		
 }
 
 }

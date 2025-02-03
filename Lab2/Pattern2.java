@@ -17,7 +17,7 @@ public class Pattern2{
 			}
 			System.out.print("\n");
 		}
-
+		scanner.close();
 	}
 
 }

@@ -22,7 +22,8 @@ public class Interest{
 		float final_amount = P+interest;
 
 		System.out.println("The Interest is: "+interest+"\nThe Final amount is: "+final_amount);
-}
+		scanner.close();
+	}
 
 
 }

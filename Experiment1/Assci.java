@@ -1,4 +1,4 @@
-public clsss Assci{
+public class Assci{
 	public static void main(String arg[]){
 	
 		System.out.println("ASCII values of numbers (0-9):");

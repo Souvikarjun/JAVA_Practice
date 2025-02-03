@@ -26,8 +26,8 @@ public class OddEvenSeparation{
 			
 		}
 		System.out.println("Sum of even numbers: "+ EvenSum+"\nSum of Odd numbers: "+OddSum);
-
-}
+		scanner.close();
+	}
 
 
 }
